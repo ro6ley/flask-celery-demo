@@ -8,4 +8,3 @@ MAIL_PORT = 587
 MAIL_USE_TLS = True
 MAIL_USERNAME = 'email-username'
 MAIL_PASSWORD = 'email-password'
-
