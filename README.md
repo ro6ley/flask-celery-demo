@@ -2,7 +2,7 @@
 
 # Ping! 
 
-This repository contains the code for this [blogpost]() on [StackAbuse](https://stackabuse.com/).
+This repository contains the code for this [blogpost](https://stackabuse.com/asynchronous-tasks-using-flask-redis-and-celery/) on [StackAbuse](https://stackabuse.com/).
 
 ## Getting Started
 
